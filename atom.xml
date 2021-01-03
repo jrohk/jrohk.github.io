@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jrohe.top</id>
-    <title>花海</title>
-    <updated>2021-01-03T06:13:20.282Z</updated>
+    <title>阳阳</title>
+    <updated>2021-01-03T06:15:12.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jrohe.top"/>
     <link rel="self" href="https://jrohe.top/atom.xml"/>
-    <subtitle>敬天爱人</subtitle>
+    <subtitle>个人网站</subtitle>
     <logo>https://jrohe.top/images/avatar.png</logo>
     <icon>https://jrohe.top/favicon.ico</icon>
-    <rights>All rights reserved 2021, 花海</rights>
+    <rights>All rights reserved 2021, 阳阳</rights>
 </feed>
